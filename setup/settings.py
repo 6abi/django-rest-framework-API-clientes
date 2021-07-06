@@ -80,7 +80,7 @@ WSGI_APPLICATION = 'setup.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'alura_receita',
+        'NAME': 'clientes',
         'USER': 'postgres',
         'PASSWORD': 'admin',
         'HOST': 'localhost'
