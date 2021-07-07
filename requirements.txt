@@ -13,7 +13,7 @@ lazy-object-proxy==1.4.3
 mccabe==0.6.1
 postgres==3.0.0
 psycopg2==2.8.6
-psycopg2-binary==2.9.1
+psycopg2-binary==2.8.6
 psycopg2-pool==1.1
 pylint==2.5.3
 python-dateutil==2.8.1
