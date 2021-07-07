@@ -16,14 +16,8 @@ class ClienteSerializer(serializers.ModelSerializer):
         if not rg_valido(data['rg']):
             raise serializers.ValidationError({'rg': "O RG deve ter 9 dígitos"})
 
+        if not celular_valido(data['celular']):
+            raise serializers.ValidationError({'celular': "O celular digitado está incorreto, digite no formato: 11 91234-1234"})
         return data
-
-
-
-    def validate_celular(self, celular):
-        """Verifica a validação do campo celular"""
-        if len(celular) < 11:
-            raise serializers.ValidationError("O Celular dever ter 11 digitos")
-        return celular
 
     
