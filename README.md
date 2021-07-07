@@ -32,7 +32,6 @@
 		<a href="https://www.postman.com/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" width="130" height="40"/></a>
 		<a href="https://www.postgresql.org/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgreSQL" width="130" height="40"/></a>
 		<a href="https://www.heroku.com/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" width="130" height="40"/></a>
-		
 	</div>
 </div>
 
