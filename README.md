@@ -61,7 +61,7 @@
 
 <!-- Resultados parciais -->
 <div align="center" class='result'>
-	<h3 align="center"> ➡ Acesso a API - JSON com campos validados e Paginação ⬅</h3>
+	<h3 align="center"> ➡ Acesso à API - JSON com campos validados, Paginação ⬅</h3>
 	<img alt="#result_1" title="#result_1" src="./results_git/result_1.png" width=600" height="400"/>
 </div>
 
