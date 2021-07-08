@@ -49,6 +49,23 @@
 	</table>
 </div>
 
+
+<!-- How to execute -->
+<div align="center" class='container'>
+	<h2 align="center"> Como Executar este projeto? </h2>
+	<p align="center">Tenha o Postgre instalado</p>
+	<p align="center">Instale os pré requesitos do arquivo requirements.txt (passo anterior)</p>
+	<table>
+	  <tbody>
+	    	<tr>
+			<th>Comando para subir o servidor localmente </th>
+			<th align="center">$ python manage.py runserver </th>
+		</tr>
+	  </tbody>
+	</table>
+	<p align="center">Done ! ✅</p>
+</div>
+
 <!-- Resultados -->
 <!-- Resultado API -->
 <div align="center" class='container'>
