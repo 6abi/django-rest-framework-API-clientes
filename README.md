@@ -61,25 +61,25 @@
 
 <!-- Resultados parciais -->
 <div align="center" class='result'>
-	<h3 align="center">  Acesso a API - JSON com campos validados e Paginação </h3>
+	<h3 align="center"> ➡ Acesso a API - JSON com campos validados e Paginação ⬅</h3>
 	<img alt="#result_1" title="#result_1" src="./results_git/result_1.png" width=600" height="400"/>
 </div>
 
 <!-- Resultados parciais -->
 <div align="center" class='result'>
-	<h3 align="center"> Filtros e ordenação dos dados </h3>
+	<h3 align="center"> ➡  Filtros e ordenação dos dados ⬅</h3>
 	<img alt="#result_2" title="#result_2" src="./results_git/result_2.PNG" width=600" height="400"/>
 </div>
 
 <!-- Resultados parciais -->
 <div align="center" class='result'>
-	<h3 align="center"> Autenticação de usuário </h3>
+	<h3 align="center"> ➡  Autenticação de usuário ⬅</h3>
 	<img alt="#result_3" title="#result_3" src="./results_git/result_3.png" width=600" height="400"/>
 </div>
 													
 <!-- Resultados parciais -->
 <div align="center" class='result'>
-	<h3 align="center"> Acesso negado caso não tenha cadastro parar acesso à API </h3>
+	<h3 align="center"> ➡  Acesso negado caso não tenha cadastro parar acesso à API ⬅</h3>
 	<img alt="#result_4" title="#result_4" src="./results_git/result_4.PNG" width=800" height="300"/>
 </div>
 
