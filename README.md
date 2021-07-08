@@ -68,7 +68,7 @@
 <!-- Resultados parciais -->
 <div align="center" class='result'>
 	<h3 align="center"> Filtros e ordenação dos dados </h3>
-	<img alt="#result_2" title="#result_2" src="./results_git/result_2.png" width=1000" height="600"/>
+	<img alt="#result_2" title="#result_2" src="./results_git/result_2.PNG" width=1000" height="600"/>
 </div>
 
 <!-- Resultados parciais -->
@@ -80,7 +80,7 @@
 <!-- Resultados parciais -->
 <div align="center" class='result'>
 	<h3 align="center"> Acesso negado caso não tenha cadastro parar acesso à API </h3>
-	<img alt="#result_4" title="#result_4" src="./results_git/result_4.png" width=1000" height="600"/>
+	<img alt="#result_4" title="#result_4" src="./results_git/result_4.PNG" width=1000" height="600"/>
 </div>
 
 													
