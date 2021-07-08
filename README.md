@@ -32,7 +32,6 @@
 		<a href="https://www.postman.com/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" width="130" height="40"/></a>
 		<a href="https://www.postgresql.org/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgreSQL" width="130" height="40"/></a>
 		<a href="https://www.heroku.com/" target="_blank" align = "center"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" width="130" height="40"/></a>
-		
 	</div>
 </div>
 
@@ -61,10 +60,28 @@
 </div>
 
 <!-- Resultados parciais -->
-<!--<div align="center" class='result'>
-	<h3 align="center">  Acessando as urls de aluno e matricula </h3>
-	<img alt="#result_1" title="#result_1" src="./results_git/result_1.gif" width=1000" height="600"/>
-</div>-->
+<div align="center" class='result'>
+	<h3 align="center">  Acesso a API - JSON com campos validados e Paginação </h3>
+	<img alt="#result_1" title="#result_1" src="./results_git/result_1.png" width=1000" height="600"/>
+</div>
+
+<!-- Resultados parciais -->
+<div align="center" class='result'>
+	<h3 align="center"> Filtros e ordenação dos dados </h3>
+	<img alt="#result_2" title="#result_2" src="./results_git/result_2.png" width=1000" height="600"/>
+</div>
+
+<!-- Resultados parciais -->
+<div align="center" class='result'>
+	<h3 align="center"> Autenticação de usuário </h3>
+	<img alt="#result_3" title="#result_3" src="./results_git/result_3.png" width=1000" height="600"/>
+</div>
+													
+<!-- Resultados parciais -->
+<div align="center" class='result'>
+	<h3 align="center"> Acesso negado caso não tenha cadastro parar acesso à API </h3>
+	<img alt="#result_4" title="#result_4" src="./results_git/result_4.png" width=1000" height="600"/>
+</div>
 
 													
 													
