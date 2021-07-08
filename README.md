@@ -1,7 +1,7 @@
 
  <!-- Explicação do projeto -->
 <h1 align="center">django-rest-framework-API-clientes</h1>
-<h2 align="center">Descrição do Projeto</h2>
+<h2 align="center"> 🧾 Descrição do Projeto</h2>
 <p align="center"> Desenvolvimento de um uma API de clientes em Python com o framework Django </p>
 
 
