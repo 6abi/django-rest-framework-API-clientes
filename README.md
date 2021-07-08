@@ -39,7 +39,7 @@
 <div align="center" class='container'>
 	<h2 align="center"> Pré-requisitos </h2>
 	<p align="center">$ pip install requirements.txt</p>
-Requirements.txt content	
+Requirements.txt content |	
 ------------
 asgiref==3.2.10
 astroid==2.4.2
