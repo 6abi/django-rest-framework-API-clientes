@@ -53,7 +53,8 @@
 <!-- How to execute -->
 <div align="center" class='container'>
 	<h2 align="center">🏃‍♀️ Como Executar este projeto? </h2>
-	<p align="center"> 1º Tenha o Postgre instalado</p>
+	<p align="center"> 1º Tenha o Postman instalado para os testes</p>
+	<p align="center"> 1º Tenha o PostgreSQL instalado</p>
 	<p align="center"> 2º Crie um banco de dados com o nome "clientes"</p>
 	<p align="center"> 3º Altere o arquivo settings.py de acordo com a sua configuração de banco de dados"</p>
 	<p align="center">4º Instale os pré requesitos do arquivo requirements.txt (passo anterior)</p>
