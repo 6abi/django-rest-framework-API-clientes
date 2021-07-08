@@ -80,7 +80,7 @@
 <!-- Resultados parciais -->
 <div align="center" class='result'>
 	<h3 align="center"> Acesso negado caso não tenha cadastro parar acesso à API </h3>
-	<img alt="#result_4" title="#result_4" src="./results_git/result_4.PNG" width=800" height="400"/>
+	<img alt="#result_4" title="#result_4" src="./results_git/result_4.PNG" width=800" height="300"/>
 </div>
 
 													
