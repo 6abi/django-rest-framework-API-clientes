@@ -38,7 +38,7 @@
 <!-- Requirements -->
 <div align="center" class='container'>
 	<h2 align="center">👨‍💻 Pré-requisitos </h2>
-	<p align="center">$ pip install requirements.txt</p>
+	<p align="center">$ pip install -r requirements.txt</p>
 	<table>
 	  <tbody>
 	    	<tr>
