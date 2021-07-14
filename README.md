@@ -8,7 +8,7 @@
  <!-- Status do projeto -->
  <h2 align="center"> ⁉ Status </h2>
 <h4 align="center"> 
-	 🚧 API Clientes 🚀 Em contrução...  🚧
+	 ✅ API Clientes 🚀 Finalizado ✅
 </h4>
 
 
